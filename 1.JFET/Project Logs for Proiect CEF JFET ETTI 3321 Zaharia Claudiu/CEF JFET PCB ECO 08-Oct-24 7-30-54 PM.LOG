@@ -1,0 +1,7 @@
+Added Net: Name=GND
+Added Net: Name=NetJ1_2
+Added Net: Name=NetJ2_1
+Added Net: Name=NetQ1_1
+Added Net: Name=NetQ1_2
+Added Class: Name=CEF JFET
+Added Rule: Name=Schematic Supply Nets

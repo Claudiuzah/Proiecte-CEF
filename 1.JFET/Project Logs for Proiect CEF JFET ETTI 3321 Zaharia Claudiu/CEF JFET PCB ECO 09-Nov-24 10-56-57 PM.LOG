@@ -1,0 +1,9 @@
+Added Component: Designator=J5(HDR_1X2_TE)
+Added Component: Designator=R5(Resistor)
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=J5-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Net: Name=VCC
+Added Class: Name=CEF Contor
+Added Rule: Name=Schematic Supply Nets_2

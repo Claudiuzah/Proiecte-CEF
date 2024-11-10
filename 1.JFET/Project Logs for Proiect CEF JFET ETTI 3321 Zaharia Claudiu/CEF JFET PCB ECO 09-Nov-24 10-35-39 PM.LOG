@@ -1,0 +1,60 @@
+Added Component: Designator=J1(HDR_1x2_pin)
+Added Component: Designator=J2(HDR_1x2_pin)
+Added Component: Designator=J3(HDR_1X2_TE)
+Added Component: Designator=J4(HDR_1X2_TE)
+Added Component: Designator=Q1(FP-29-11-MFG)
+Add component (AddParameter): Name = "Breakdown Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "9mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "-25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.87mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "7pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Obsolete"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Lifecycle Status"; Value = "OBSOLETE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temperature (Tj)"; Value = "135°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "135°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "625mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "153544"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "625mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "201mg"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor)
+Added Component: Designator=R2(Resistor)
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R2-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=VDD Pin=J1-1
+Added Pin To Net: NetName=VDD Pin=J3-1
+Added Pin To Net: NetName=VDD Pin=R1-2
+Added Net: Name=VDD
+Added Member To Class: ClassName=CEF JFET Member=Component J1 VR2
+Added Member To Class: ClassName=CEF JFET Member=Component J2 VDS
+Added Member To Class: ClassName=CEF JFET Member=Component J3 VDD
+Added Member To Class: ClassName=CEF JFET Member=Component J4 VGG
+Added Member To Class: ClassName=CEF JFET Member=Component Q1 2N5458
+Added Member To Class: ClassName=CEF JFET Member=Component R1 500R
+Added Member To Class: ClassName=CEF JFET Member=Component R2 33k
+Added Rule: Name=Schematic Supply Nets_1

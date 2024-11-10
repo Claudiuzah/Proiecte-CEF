@@ -1,0 +1,40 @@
+Proiect 1 Tecj
+-hartie fotografica ❌
+-2 conectori 282836-2TE Connectivity ❌
+-1 buc 500R ✅
+-1 buc 33k ✅
+-Tranzistor JFET cu canal N, tip 2N5458 sau echivalent ✅
+-2 conectori hdr1x2 cu pini ✅
+
+Proiect 2 Oscilatoare
+
+-2N3904 NPN (sau echivalent)
+Rezistoare:
+1.0kohm - 1 buc; ✅
+2.7 kohm - 1 buc; ❌
+3.3kohm - 1 buc; ✅
+10 kohm - 1 buc ✅
+R potentiometru 1k ✅(0-120ohm)
+
+Capacitoare:
+1000 pF – 3 buc; ❌
+0.01 uF – 1 buc; ✅
+0.1 uF – 3 buc; ❌
+
+Bobine:
+2 uH – 1 buc;  ❌
+25 uH – 1 buc; ❌
+
+Suplimentar:
+Cristal quartz 1 MHz – 1 buc; (8836.236kHz(8MHz)) ✅
+JFET canal N 2N5458 – 1 buc; ✅
+Rezistor 10 Mohm ✅
+13 hdr 1x1 pin testpin ✅
+2 jumper 3pin ❌
+3 hdr 1x2 pin ✅
+
+
+Proiect 3 Contor
+-4 diode 1N4002 ✅
+-3 cond electrolitice 1uF, 10uF , 470uF ✅
+-transformator 220V AC-12V DC ❌
