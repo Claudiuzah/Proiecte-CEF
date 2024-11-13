@@ -84,23 +84,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BXGUUJJA
 
 [Document3]
-DocumentPath=CEF.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CZCEKAPA
-
-[Document4]
 DocumentPath=CEF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,14 +100,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DONVRVIN
 
-[Document5]
-DocumentPath=CEF Contor.SchDoc
+[Document4]
+DocumentPath=Schlib2.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=-1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -132,15 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JEKWBROB
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Proiect CEF JFET ETTI 3321 Zaharia Claudiu\Proiect CEF JFET ETTI 3321 Zaharia Claudiu.nsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Simulation\Proiect CEF JFET ETTI 3321 Zaharia Claudiu.sdf
-DItemRevisionGUID=
+DocumentUniqueId=NEOOUUJJ
 
 [Configuration1]
 Name=Sources
