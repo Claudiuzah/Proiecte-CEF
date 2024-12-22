@@ -1,0 +1,24 @@
+Component Name : 1000uF Cap
+
+Part Count : 2
+
+Part : C1
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : C1
+     Pins - (Alternate 1) : 0
+          Hidden Pins : 
+
+Part : C1
+     Pins - (Normal) : 2
+          1              1              Passive
+          2              2              Passive
+          Hidden Pins : 
+
+Part : C1
+     Pins - (Alternate 1) : 2
+          1              1              Passive
+          2              2              Passive
+          Hidden Pins : 
+
