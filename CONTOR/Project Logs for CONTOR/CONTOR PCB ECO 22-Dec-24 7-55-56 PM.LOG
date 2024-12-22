@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=SW1 Old Footprint=FP-PTS645SM43SMTR92LFS-MFG New Footprint=SW_1825910-6-4
+Change Component Comment : Designator=SW1 Old Comment=PTS645SM43SMTR92LFS New Comment=1825910-6
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=7D918995-645B-4FDC-8095-80E6DB4A866E New ItemGUID= Old RevisionGUID=E6641D53-F4A8-473F-974D-480283649054 New RevisionGUID=
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-PTS645SM43SMTR92LFS-MFG"; UniqueID = "\RVZALHPY" ("\RVZALHPY")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1825910-6/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "450-1650-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1825910-6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1825910-6/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1825910-6/TE+Connectivity+ALCOSWITCH+Switches/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
