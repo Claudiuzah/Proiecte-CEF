@@ -1,0 +1,7 @@
+Added Component: Designator=J16(HDR_1x1_pin)
+Added Component: Designator=J17(HDR_1x1_pin)
+Added Pin To Net: NetName=GND Pin=J16-1
+Added Pin To Net: NetName=NetC1_1 Pin=J17-1
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=Coplitts/Hartley
+Added Member To Class: ClassName=OSC Member=Component J16 TestPin GND
+Added Member To Class: ClassName=OSC Member=Component J17 VIN

@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAPR51-254-508X318X736 New Footprint=CAP4.5mm
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=1000pF (102)
+Change Component Comment : Designator=C6 Old Comment=1000uF New Comment=1000pF
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID= Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\SURZYVWS" ("\SURZYVWS")
