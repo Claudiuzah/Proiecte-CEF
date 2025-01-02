@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAPR51-254-508X318X736 New Footprint=CAP4.5mm
+Change Component Footprint: Designator=C7 Old Footprint=CAPR51-254-508X318X736 New Footprint=CAP4.5mm
+Change Component Comment : Designator=C7 Old Comment=0.01uF New Comment=0.01uF (103)
+Change Component Comment : Designator=RLED Old Comment=1k New Comment=1-8k
+Change Component Comment : Designator=C6 Old Comment=1000pF New Comment=1000pF (102)
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID= Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CED6C6CE-2427-4803-A481-60341EA4475E New ItemGUID= Old RevisionGUID=F58EB8E3-E096-486A-8478-108F679DF6D7 New RevisionGUID=
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\NSTHEXYS" ("\NSTHEXYS")
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPR51-254-508X318X736"; UniqueID = "\OELBYZUA" ("\OELBYZUA")
